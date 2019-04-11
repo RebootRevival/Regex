@@ -1,0 +1,10 @@
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\bin\Debug\EasyRegexTester.exe.config
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\bin\Debug\EasyRegexTester.exe
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\bin\Debug\EasyRegexTester.pdb
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\bin\Debug\EasyRegex.dll
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\bin\Debug\EasyRegex.pdb
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\obj\Debug\EasyRegexTester.csprojAssemblyReference.cache
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\obj\Debug\EasyRegexTester.csproj.CoreCompileInputs.cache
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\obj\Debug\EasyRegexTester.csproj.CopyComplete
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\obj\Debug\EasyRegexTester.exe
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegexTester\obj\Debug\EasyRegexTester.pdb

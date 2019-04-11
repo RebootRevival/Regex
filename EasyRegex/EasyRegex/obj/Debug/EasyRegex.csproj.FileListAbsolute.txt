@@ -1,0 +1,6 @@
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegex\bin\Debug\EasyRegex.dll
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegex\bin\Debug\EasyRegex.pdb
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegex\obj\Debug\EasyRegex.csproj.CoreCompileInputs.cache
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegex\obj\Debug\EasyRegex.dll
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegex\obj\Debug\EasyRegex.pdb
+C:\Users\tvitanov\Documents\Custom Extensions\Easy Regex\EasyRegex\EasyRegex\obj\Debug\EasyRegex.csprojAssemblyReference.cache
